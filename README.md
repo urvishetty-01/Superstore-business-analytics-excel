@@ -62,7 +62,9 @@ Order and Ship Dates contained a mixture of date representations and Excel data 
 
 This prevented incorrectly calculated negative delivery times and ensured that the shipping analysis was based on reliable date values.
 
-Dashboard
+## Dashboard
+
+![Superstore Business Analytics Dashboard](dashboard.png)
 
 The final dashboard brings together:
 
