@@ -64,7 +64,7 @@ This prevented incorrectly calculated negative delivery times and ensured that t
 
 ## Dashboard
 
-![Superstore Business Analytics Dashboard](https://github.com/urvishetty-01/Superstore-business-analytics-excel/blob/main/Dashboard.png?raw=true)
+![Superstore Business Analytics Dashboard](https://github.com/urvishetty-01/Superstore-business-analytics-excel/blob/main/Dashboard_.png?raw=true)
 
 The final dashboard brings together:
 
